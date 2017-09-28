@@ -43,6 +43,18 @@ int main()
 
 ---
 
+## `\(\LaTeX{}\)` in remark
+ 
+  
+1. This is an inline integral: `\(\int_a^bf(x)dx\)`
+2. More `\(x={a \over b}\)` formulae.
+ 
+Display formula:
+
+$$e^{i\pi} + 1 = 0$$
+
+---
+
 class: center, middle
 
 # 谢谢
