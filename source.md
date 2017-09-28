@@ -40,3 +40,10 @@ int main()
 ** Ada Lovelace **
 
 <img src="https://upload.wikimedia.org/wikipedia/commons/9/95/Ada_Lovelace_color.svg" width=200 style="margin: 0px 80px">
+
+---
+
+class: center, middle
+
+# 谢谢
+
