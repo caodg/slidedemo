@@ -21,10 +21,25 @@
     </textarea>
     <script src="https://remarkjs.com/downloads/remark-latest.min.js">
     </script>
+    <script
+        src="http://cdn.bootcss.com/mathjax/2.7.1/MathJax.js?config=TeX-AMS_HTML&delayStartupUntil=configured" type="text/javascript">
+    </script>
+
     <script>
       var slideshow = remark.create({
-        sourceUrl: 'source.md'
+        sourceUrl: 'source.md',
+        highlightLines: true,
+        ratio: '16:9',
     });
+      
+      // Setup MathJax
+      MathJax.Hub.Config({
+          tex2jax: {
+          skipTags: ['script', 'noscript', 'style', 'textarea', 'pre']
+          }
+      });
+
+      MathJax.Hub.Configured();
     </script>
   </body>
 </html>
