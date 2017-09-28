@@ -5,11 +5,9 @@ class: center, middle
 &nbsp;
 &nbsp;
 
-#### 作者 (author@email.com)  
+#### 作者姓名 (author@email.com)  
 
-办公室: 理科1号楼1809
-
-https://github.com/author
+主页: https://github.com/author
 
 ---
 
