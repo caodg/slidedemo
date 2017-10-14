@@ -13,7 +13,10 @@ class: center, middle
 
 ## 本讲内容
 
-### <font color="orangered">1. 第一部分</font> 
+### <font color="orangered">1. 第一部分</font>
+
+#### &nbsp; &nbsp; 1.1 如何学习
+#### &nbsp; &nbsp; 1.2 好好学习
 
 ### 2. 第二部分
 
@@ -42,11 +45,11 @@ int main()
 ---
 
 ## `\(\LaTeX{}\)` in remark
- 
-  
+
+
 1. This is an inline integral: `\(\int_a^bf(x)dx\)`
 2. More `\(x={a \over b}\)` formulae.
- 
+
 Display formula:
 
 $$e^{i\pi} + 1 = 0$$
@@ -56,4 +59,3 @@ $$e^{i\pi} + 1 = 0$$
 class: center, middle
 
 # 谢谢
-
