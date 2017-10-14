@@ -17,6 +17,7 @@ class: center, middle
 
 #### &nbsp; &nbsp; 1.1 如何学习
 #### &nbsp; &nbsp; 1.2 好好学习
+#### &nbsp; &nbsp; 1.3 好好学习
 
 ### 2. 第二部分
 
