@@ -1,47 +1,62 @@
 class: center, middle
 
-# 讲义题目
+# 10.18作业-介绍自己
 
 &nbsp;
 &nbsp;
 
-#### 作者姓名 (author@email.com)  
+#### 赵松睿 (srzhao@pku.edu.cn)  
 
-主页: https://github.com/author
+主页: https://github.com/srzhao18
 
 ---
 
 ## 本讲内容
 
-### <font color="orangered">1. 第一部分</font>
+### <font color="orangered">1. 简要介绍</font>
 
-#### &nbsp; &nbsp; 1.1 如何学习
-#### &nbsp; &nbsp; 1.2 好好学习
-#### &nbsp; &nbsp; 1.3 好好学习
 
-### 2. 第二部分
+### 2. 为什么选择北大
 
-### 3. 第三部分
+### 3. 短期规划
+
 
 ---
 
-## 第一部分
+## 简要介绍
 
-```c
-int main()
-{
-  printf("Hello world\n");
-  return 0 ;
-}
-```
+###化院2017级本科
+###高中就读于北京三十五中
+###高考+自主招生
+###曾是科技特长生
+---
+
+## 为什么选北大
+
+###最想考那个差一分
+###隔壁理科没有北大好
+###隔壁要跑3km体育渣瑟瑟发抖
+
+
+
+---
+## 短期规划
+
+###周围同学都是大佬
+###要好好学习
+###早日不被按在地上摩擦
+###尽快进组实（玩）验（耍）
+
+
 
 ---
 
-## 插图
+## 
 
-** Ada Lovelace **
+
 
 <img src="https://upload.wikimedia.org/wikipedia/commons/9/95/Ada_Lovelace_color.svg" width=300 style="margin: 0px 80px">
+
 
 ---
 
