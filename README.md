@@ -2,7 +2,7 @@
 
 1. 了解 [remark](http://remarkjs.com), [remark wiki](https://github.com/gnab/remark/wiki)
 
-2. [Fork 本库](https://github.com/caodg/slidedemo#fork-destination-box), 本库的webpage 在 https://caodg.github.io/slidedemo, 你Fork后的库 webpage 在 https://yourname.github.io/slidedemo, Fork, 请到`Settings -> GitHub Pages`里面, 将 `Source` 设置为 `master branch`
+2. Fork 本库, 本库的webpage 在 https://caodg.github.io/slidedemo, 你Fork后的库 webpage 在 https://yourname.github.io/slidedemo,  请到 `Settings -> GitHub Pages`里面, 将 `Source` 设置为 `master branch`
 
 3. Clone该库到本地计算机
 
