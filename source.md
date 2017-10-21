@@ -1,47 +1,61 @@
 class: center, middle
 
-# 讲义题目
+# 10.18作业-介绍自己
 
 &nbsp;
 &nbsp;
 
-#### 作者姓名 (author@email.com)  
+#### 被ddl和期中吓傻的赵松睿 (srzhao@pku.edu.cn)  
 
-主页: https://github.com/author
+主页: https://github.com/srzhao18
 
 ---
 
 ## 本讲内容
 
-### <font color="orangered">1. 第一部分</font>
+### <font color="orangered">1. 介绍自己</font>
 
-#### &nbsp; &nbsp; 1.1 如何学习
-#### &nbsp; &nbsp; 1.2 好好学习
-#### &nbsp; &nbsp; 1.3 好好学习
 
-### 2. 第二部分
+### 2. emmmmm
 
-### 3. 第三部分
+### 3. 咸鱼平躺
+
 
 ---
 
-## 第一部分
+## o(=·ω·=)m
 
-```c
-int main()
-{
-  printf("Hello world\n");
-  return 0 ;
-}
-```
+###我是，砖院17级女生1/13.
 
 ---
 
-## 插图
+##emmm
 
-** Ada Lovelace **
+
+###之前没学过Python
+###不知道是怎样的操作
+###要好好学习(•̀ᴗ•́)و
+
+
+
+---
+## 咸鱼平躺
+
+###翻个身吧
+###。。
+###。。hmmmm
+###粘锅了emmmmmm
+
+
+
+---
+
+## 不会插入图片qwq。
+
+
 
 <img src="https://upload.wikimedia.org/wikipedia/commons/9/95/Ada_Lovelace_color.svg" width=300 style="margin: 0px 80px">
+
 
 ---
 
