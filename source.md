@@ -1,11 +1,11 @@
 class: center, middle
 
-# 讲义题目
+# 自我介绍
 
 &nbsp;
 &nbsp;
 
-#### 作者姓名 (author@email.com)  
+#### 姜晓飞 (author@email.com)  
 
 主页: https://github.com/author
 
