@@ -1,59 +1,69 @@
-class: center, middle
+﻿class: center, middle
 
-# 讲义题目
+# 自我介绍
 
+### (A brief introduction of myself)
 &nbsp;
 &nbsp;
+#### 池雨泉 (1700017811@pku.edu.cn)  
 
-#### 作者姓名 (author@email.com)  
-
-主页: https://github.com/author
-
----
-
-## 本讲内容
-
-### <font color="orangered">1. 第一部分</font>
-
-#### &nbsp; &nbsp; 1.1 如何学习
-#### &nbsp; &nbsp; 1.2 好好学习
-#### &nbsp; &nbsp; 1.3 好好学习
-
-### 2. 第二部分
-
-### 3. 第三部分
+主页: https://github.com/Wertolf
 
 ---
 
-## 第一部分
+## 内容
 
-```c
-int main()
-{
-  printf("Hello world\n");
-  return 0 ;
-}
-```
+### <font color="orangered">1. 我是谁</font>
+
+### 2. 我从哪来
+
+### 3. 我到哪去
 
 ---
 
-## 插图
+## 我是谁
 
-** Ada Lovelace **
+###姓名：池雨泉
 
-<img src="https://upload.wikimedia.org/wikipedia/commons/9/95/Ada_Lovelace_color.svg" width=300 style="margin: 0px 80px">
+###年龄：17岁
+
+###身份：北京大学17级元培学院的一名新生
+
+###专业方向：数学
 
 ---
 
-## `\(\LaTeX{}\)` in remark
+## 内容
 
+### 1. 我是谁
 
-1. This is an inline integral: `\(\int_a^bf(x)dx\)`
-2. More `\(x={a \over b}\)` formulae.
+### <font color="orangered">2.我从哪来</font>
 
-Display formula:
+### 3. 我到哪去
 
-$$e^{i\pi} + 1 = 0$$
+---
+
+## 我从哪来
+
+###我来自中国-北京市-丰台区
+
+###我毕业于北京市第八中学
+
+---
+
+## 内容
+
+### 1. 我是谁
+
+### 2. 我从哪来
+
+### <font color="orangered">3. 我到哪去</font>
+
+---
+
+##我到哪去
+
+###这是一个值得思考的问题，我目前还没有答案
 
 ---
 
